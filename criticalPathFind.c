@@ -8,6 +8,9 @@ typedef struct{
 }Dugumler;
 
 Dugumler *dugumler;
+
+
+//Critical path
 int n,i,j,sonrasi,oncesi,max=-1,min=1000;
 
 void ustudoldur()
